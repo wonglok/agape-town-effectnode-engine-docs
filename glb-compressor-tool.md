@@ -10,7 +10,7 @@ The Desktop / Mac Compressor Tool, Open File to Preview GLB and Click Compress t
 
 GLB 3D Content Compressor tool for one click optimisation (30.3 MB →3.4 MB)
 
-
+Used in a T-Mobile Project to optimise runtime on legacy devices.
 
 
 
