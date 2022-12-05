@@ -10,11 +10,7 @@ description: Metaverse by dear Kam, dear Alex and dear Lok
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption><p>Agape Landing Page</p></figcaption></figure>
 
-AGÁPE is greek for GOD's unconditional love.
-
-
-
-
+AGÁPE is greek for GOD's unconditional love. We want to share the best of the best technology for good for free.
 
 
 
